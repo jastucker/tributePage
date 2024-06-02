@@ -1,0 +1,39 @@
+body {
+background-color:#000000;
+  color:#ffffff;
+  margin-left:5px;
+  margin-right:5px;
+}
+img{
+  max-height:75%px;
+  max-width:50%;
+  border: 2px solid #ffffff;
+  display:block;
+}
+#image{
+height:auto;    
+margin-left:auto;
+margin-right:auto;
+  max-width:100%;
+  border-radius:10px;
+}
+figcaption{
+  font-style:italic;
+}
+h1{
+  font-family:Arial;
+  font-size:4em;
+}
+p{
+  max-width:100%;
+  margin-left:1px;
+  font-size:1.2em;
+  background-color:#F2BB9B;
+  color:#574859;
+  line-height:25px;
+  padding:2px;
+}
+#gift{
+  background-color:#ffffff;
+  color:#574859;
+}
